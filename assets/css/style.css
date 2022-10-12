@@ -1,0 +1,26 @@
+.quizClass{
+    position: relative;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.highScores{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+.timer{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+.StartButton {
+    background-color: purple;
+    color: white;
+    margin-left: 45%;
+    size: 18px;
+    padding: 8px;
+    border-radius: 10px;
+}
